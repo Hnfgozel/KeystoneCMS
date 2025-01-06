@@ -22,7 +22,6 @@ A comprehensive mall management system built with Keystone.js, Next.js, and MySQ
 1. Clone the repository:
 ```bash
 git clone https://github.com/Hnfgozel/KeystoneCMS.git
-cd mall-management
 ```
 
 2. Install dependencies:
